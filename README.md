@@ -1,6 +1,7 @@
 # Beer-Review-Using-ML-Models
-Here we have predicted the overall review of Beer dataset
-Here I have used regressor algorithms to predict the beer ratings.
+Here we have predicted the overall review of Beer dataset.
+
+# Here I have used regressor algorithms to predict the beer ratings.
 
 the given data we can briefly infer about the different features as follows:
 
